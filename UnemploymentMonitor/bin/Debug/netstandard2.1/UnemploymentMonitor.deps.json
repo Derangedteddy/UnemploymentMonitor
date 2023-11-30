@@ -15,6 +15,7 @@
           "UnityEngine.Modules": "5.6.0",
           "Colossal.Core": "0.0.0.0",
           "Colossal.UI.Binding": "0.0.0.0",
+          "Colossal.UI": "0.0.0.0",
           "Game": "0.0.0.0",
           "HookUILib": "0.3.0.0",
           "Unity.Collections": "0.0.0.0",
@@ -375,6 +376,14 @@
           }
         }
       },
+      "Colossal.UI/0.0.0.0": {
+        "runtime": {
+          "Colossal.UI.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
       "Game/0.0.0.0": {
         "runtime": {
           "Game.dll": {
@@ -695,6 +704,11 @@
       "sha512": ""
     },
     "Colossal.UI.Binding/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Colossal.UI/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

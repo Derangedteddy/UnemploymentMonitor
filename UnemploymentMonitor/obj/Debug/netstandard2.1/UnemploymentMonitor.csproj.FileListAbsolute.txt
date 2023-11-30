@@ -17,3 +17,4 @@ C:\Users\rober\source\repos\UnemploymentMonitor\UnemploymentMonitor\obj\Debug\ne
 C:\Users\rober\source\repos\UnemploymentMonitor\UnemploymentMonitor\obj\Debug\netstandard2.1\UnemploymentMonitor.csproj.CopyComplete
 C:\Users\rober\source\repos\UnemploymentMonitor\UnemploymentMonitor\obj\Debug\netstandard2.1\UnemploymentMonitor.dll
 C:\Users\rober\source\repos\UnemploymentMonitor\UnemploymentMonitor\obj\Debug\netstandard2.1\UnemploymentMonitor.pdb
+C:\Users\rober\source\repos\UnemploymentMonitor\UnemploymentMonitor\bin\Debug\netstandard2.1\Colossal.UI.dll
