@@ -15,7 +15,9 @@ class Patches
         [HarmonyPostfix]
         public static void Postfix(UpdateSystem updateSystem)
         {
-            updateSystem.UpdateAt<CimBehaviorUISystem>(SystemUpdatePhase.UIUpdate);
+            updateSystem.UpdateAt<UnderemploymentSystem>(SystemUpdatePhase.GameSimulation);
+            updateSystem.UpdateAt<UnemploymentUISystem>(SystemUpdatePhase.UIUpdate);
+            
         }
     }
 }

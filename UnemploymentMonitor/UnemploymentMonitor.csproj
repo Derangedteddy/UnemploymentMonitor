@@ -31,8 +31,14 @@
   </ItemGroup>
   
   <ItemGroup>
+    <Reference Include="Colossal.Collections">
+      <HintPath>lib\Colossal.Collections.dll</HintPath>
+    </Reference>
     <Reference Include="Colossal.Core">
       <HintPath>lib\Colossal.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Colossal.Mathematics">
+      <HintPath>lib\Colossal.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Colossal.UI">
       <HintPath>lib\Colossal.UI.dll</HintPath>
@@ -46,11 +52,20 @@
     <Reference Include="HookUILib">
       <HintPath>lib\HookUILib.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>lib\Unity.Burst.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Burst.Unsafe">
+      <HintPath>lib\Unity.Burst.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Collections">
       <HintPath>lib\Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Entities">
       <HintPath>lib\Unity.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>lib\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
       <HintPath>lib\UnityEngine.dll</HintPath>
