@@ -1,0 +1,10 @@
+{
+    "name": "Unemployment_Monitor",
+    "description": "Displays unemployment rates per education level.",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "CaptainOfCoit-HookUI-0.3.2"
+    ],
+    "website_url": "https://github.com/Derangedteddy/UnemploymentMonitor"
+}
